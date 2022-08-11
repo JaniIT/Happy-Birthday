@@ -1,0 +1,7 @@
+Public class Symbol{
+
+public Static void Main(String[] args{
+
+System.out.println("Happy Birthday");
+}
+}
