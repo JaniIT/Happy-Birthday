@@ -3,5 +3,6 @@ Public class Symbol{
 public Static void Main(String[] args{
 
 System.out.println("Happy Birthday");
+System.out.println("Many more Happy Returns");
 }
 }
